@@ -103,8 +103,7 @@ html, body {
 	background:
 		radial-gradient(transparent, black),
 		url('../images/background-geometric.jpg') #ffffff;
-	padding: 1px;
-	height: 100%;
+	padding: 1px 15px;
 }
 
 .word-gen-wrapper {
@@ -118,4 +117,18 @@ html, body {
 
 .word-result {
 	text-align: center;
+}
+
+@media only screen and (min-width: 767px) {
+	.container {
+		background:
+			radial-gradient(transparent, black),
+			url('../images/background-geometric.jpg') #ffffff;
+		padding: 1px 15px;
+		height: 100%;
+	}
+
+	.word-gen-wrapper {
+		margin: 90px auto 30px ;
+	}
 }
