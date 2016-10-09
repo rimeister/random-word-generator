@@ -100,13 +100,13 @@ html, body {
 }
 
 .container {
-	background: url('../images/background-chevron.jpg') #ffffff;
+	background: url('../images/background-geometric.jpg') #ffffff;
 	padding: 1px;
 	height: 100%;
 }
 
 .word-gen-wrapper {
-	background: rgba(255,255,255,0.9);
+	background: rgba(255,255,255,0.95);
 	margin: 30px auto;
 	max-width: 600px;
     padding: 30px 0;
