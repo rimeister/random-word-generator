@@ -145,5 +145,6 @@ html, body {
 
 	.word-gen-wrapper {
 		margin: 90px auto 30px ;
+		padding: 30px 15px;
 	}
 }
